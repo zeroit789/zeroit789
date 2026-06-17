@@ -109,12 +109,10 @@ retroalimentan: **administración de sistemas / IT** y **desarrollo web full-sta
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroit789&layout=compact&hide_border=true&title_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="Lenguajes más usados" />
 </p>
 
-<!-- Racha: instancia Heroku (la de demolab.com estaba caída) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeroit789&hide_border=true&background=0d1117&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Racha de contribuciones" />
-</p>
+<!-- (Racha eliminada: las instancias públicas de streak-stats son inestables
+     y GitHub/Camo las muestra rotas. Mejor sin ella que rota.) -->
 
-<!-- ===== GRÁFICA DE ACTIVIDAD (sustituye a los trofeos, cuya instancia estaba caída) ===== -->
+<!-- ===== GRÁFICA DE ACTIVIDAD ===== -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeroit789&bg_color=0d1117&color=7C3AED&line=2563EB&point=ffffff&area=true&area_color=7C3AED&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfica de actividad" />
 </p>
@@ -158,7 +156,7 @@ Calidad de producción: **Observatory A+**, W3C sin errores, WCAG 2.2 AA, RGPD c
 de cookies real y fuentes autoalojadas.
 `HTML` · `CSS` · `JS` · `Cloudflare Pages`
 
-### 💸 Bolsillo
+### 💸 Bolsillo — [repo](https://github.com/zeroit789/bolsillo)
 App de escritorio **open-source** para gestión de gastos personales. Multiplataforma,
 ligera y sin telemetría. Mi campo de pruebas para el stack Tauri.
 `Tauri` · `Rust` · `Vue 3` · `TypeScript` · `Pinia`
@@ -173,6 +171,18 @@ Incluye ingeniería inversa del motor y herramientas propias en .NET.
 Mi portfolio profesional en **Laravel**: sistema de citas con Google Calendar/Meet,
 panel de gestión, avisos por Telegram, bilingüe ES/EN, páginas legales RGPD y SEO cuidado.
 `Laravel` · `Livewire` · `Tailwind` · `Docker` · `Coolify`
+
+<!-- ===== TARJETAS DE REPOS PÚBLICOS (github-readme-stats pin, fiable) ===== -->
+### 📌 Mis repositorios
+
+<p align="center">
+  <a href="https://github.com/zeroit789/meetcita"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeroit789&repo=meetcita&hide_border=true&title_color=7C3AED&icon_color=2563EB&text_color=c9d1d9&bg_color=0d1117" alt="meetcita" /></a>
+  <a href="https://github.com/zeroit789/web-ejemplo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeroit789&repo=web-ejemplo&hide_border=true&title_color=7C3AED&icon_color=2563EB&text_color=c9d1d9&bg_color=0d1117" alt="web-ejemplo (NÓVERA)" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/zeroit789/kenshi-coop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeroit789&repo=kenshi-coop&hide_border=true&title_color=7C3AED&icon_color=2563EB&text_color=c9d1d9&bg_color=0d1117" alt="kenshi-coop" /></a>
+  <a href="https://github.com/zeroit789/bolsillo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeroit789&repo=bolsillo&hide_border=true&title_color=7C3AED&icon_color=2563EB&text_color=c9d1d9&bg_color=0d1117" alt="bolsillo" /></a>
+</p>
 
 ---
 
