@@ -109,13 +109,14 @@ retroalimentan: **administración de sistemas / IT** y **desarrollo web full-sta
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroit789&layout=compact&hide_border=true&title_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="Lenguajes más usados" />
 </p>
 
+<!-- Racha: instancia Heroku (la de demolab.com estaba caída) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zeroit789&hide_border=true&background=0d1117&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeroit789&hide_border=true&background=0d1117&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Racha de contribuciones" />
 </p>
 
-<!-- ===== TROFEOS ===== -->
+<!-- ===== GRÁFICA DE ACTIVIDAD (sustituye a los trofeos, cuya instancia estaba caída) ===== -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeroit789&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trofeos de GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeroit789&bg_color=0d1117&color=7C3AED&line=2563EB&point=ffffff&area=true&area_color=7C3AED&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfica de actividad" />
 </p>
 
 ---
