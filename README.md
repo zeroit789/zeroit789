@@ -1,6 +1,5 @@
 <!-- ============================================================= -->
 <!-- README de perfil de GitHub — Daniel Castaños Mefle (zeroit789) -->
-<!-- Todos los SVG son servicios gratuitos que renderizan en GitHub -->
 <!-- ============================================================= -->
 
 <!-- ===== CABECERA: banner gradiente con capsule-render ===== -->
@@ -25,7 +24,6 @@
 
 ---
 
-<!-- ===== SOBRE MÍ ===== -->
 ## 👋 Sobre mí
 
 Soy **Daniel** (en la red, **Zero**), de Algeciras (Cádiz). Llevo años en dos frentes que se
@@ -41,7 +39,6 @@ retroalimentan: **administración de sistemas / IT** y **desarrollo web full-sta
 
 ---
 
-<!-- ===== EN QUÉ ANDO AHORA (bloque dinámico) ===== -->
 ## 🔭 En qué ando ahora
 
 - 🏗️ Construyendo un **SaaS de CRM + ERP con VeriFACTU** para PYMEs españolas.
@@ -52,7 +49,6 @@ retroalimentan: **administración de sistemas / IT** y **desarrollo web full-sta
 
 ---
 
-<!-- ===== STACK TECNOLÓGICO (badges shields.io con iconos) ===== -->
 ## 🧰 Stack
 
 **Backend**
@@ -101,30 +97,16 @@ retroalimentan: **administración de sistemas / IT** y **desarrollo web full-sta
 
 ---
 
-<!-- ===== ESTADÍSTICAS DE GITHUB ===== -->
-## 📊 GitHub en cifras
+## 📊 Actividad
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeroit789&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=2563EB&text_color=c9d1d9&bg_color=0d1117" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroit789&layout=compact&hide_border=true&title_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="Lenguajes más usados" />
-</p>
-
-<!-- (Racha eliminada: las instancias públicas de streak-stats son inestables
-     y GitHub/Camo las muestra rotas. Mejor sin ella que rota.) -->
-
-<!-- ===== GRÁFICA DE ACTIVIDAD ===== -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeroit789&bg_color=0d1117&color=7C3AED&line=2563EB&point=ffffff&area=true&area_color=7C3AED&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfica de actividad" />
 </p>
 
 ---
 
-<!-- ===== ANIMACIÓN DE LA SERPIENTE (Platane/snk) ===== -->
-<!-- Requiere el GitHub Action de Platane/snk (ver INSTRUCCIONES.md). -->
-<!-- Mientras no esté configurado el workflow, este bloque no muestra imagen. -->
 ## 🐍 Mis contribuciones
 
-<!-- La serpiente se adapta al tema (claro/oscuro) del visitante de GitHub -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeroit789/zeroit789/output/github-contribution-grid-snake-dark.svg" />
@@ -135,7 +117,6 @@ retroalimentan: **administración de sistemas / IT** y **desarrollo web full-sta
 
 ---
 
-<!-- ===== PROYECTOS DESTACADOS (reales, repos de zeroit789) ===== -->
 ## 🚀 Proyectos destacados
 
 ### 🧠 Onyx
@@ -172,21 +153,8 @@ Mi portfolio profesional en **Laravel**: sistema de citas con Google Calendar/Me
 panel de gestión, avisos por Telegram, bilingüe ES/EN, páginas legales RGPD y SEO cuidado.
 `Laravel` · `Livewire` · `Tailwind` · `Docker` · `Coolify`
 
-<!-- ===== TARJETAS DE REPOS PÚBLICOS (github-readme-stats pin, fiable) ===== -->
-### 📌 Mis repositorios
-
-<p align="center">
-  <a href="https://github.com/zeroit789/meetcita"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeroit789&repo=meetcita&hide_border=true&title_color=7C3AED&icon_color=2563EB&text_color=c9d1d9&bg_color=0d1117" alt="meetcita" /></a>
-  <a href="https://github.com/zeroit789/web-ejemplo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeroit789&repo=web-ejemplo&hide_border=true&title_color=7C3AED&icon_color=2563EB&text_color=c9d1d9&bg_color=0d1117" alt="web-ejemplo (NÓVERA)" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/zeroit789/kenshi-coop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeroit789&repo=kenshi-coop&hide_border=true&title_color=7C3AED&icon_color=2563EB&text_color=c9d1d9&bg_color=0d1117" alt="kenshi-coop" /></a>
-  <a href="https://github.com/zeroit789/bolsillo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeroit789&repo=bolsillo&hide_border=true&title_color=7C3AED&icon_color=2563EB&text_color=c9d1d9&bg_color=0d1117" alt="bolsillo" /></a>
-</p>
-
 ---
 
-<!-- ===== CERTIFICACIONES (reales) ===== -->
 ## 🎓 Certificaciones y formación
 
 **Redes — Cisco CCNAv7 (itinerario completo)**
@@ -215,7 +183,6 @@ panel de gestión, avisos por Telegram, bilingüe ES/EN, páginas legales RGPD y
 
 ---
 
-<!-- ===== CONTACTO / PIE ===== -->
 ## 📬 Contacto
 
 ¿Tienes un proyecto entre manos o buscas a alguien que entienda **tanto los sistemas como el código**? Hablemos.
@@ -226,7 +193,6 @@ panel de gestión, avisos por Telegram, bilingüe ES/EN, páginas legales RGPD y
   <a href="mailto:info@danimefle.com"><img src="https://img.shields.io/badge/✉️%20Email-info@danimefle.com-EA4335?style=for-the-badge" alt="Email" /></a>
 </p>
 
-<!-- ===== PIE CON CAPSULE-RENDER ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=120&section=footer" alt="Pie de página" />
 </p>
