@@ -3,7 +3,7 @@
 
 <!-- Cabecera: banner con el nombre (capsule-render) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=180&section=header&text=Daniel%20Casta%C3%B1os%20Mefle&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=SysAdmin%20%C2%B7%20Laravel%20%26%20Vue&descSize=18&descAlignY=60" alt="Daniel Castaños Mefle" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=180&section=header&text=Daniel%20Casta%C3%B1os%20Mefle&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=SysAdmin%20%C2%B7%20Laravel%20%C2%B7%20Vue&descSize=18&descAlignY=60" alt="Daniel Castaños Mefle" />
 </p>
 
 <!-- Enlaces de contacto comunes a los dos idiomas -->
