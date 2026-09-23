@@ -47,6 +47,9 @@ Estoy abierto a proyectos puntuales. Si quieres comentarme algo, [agenda una cit
 **[kenshi-coop](https://github.com/zeroit789/kenshi-coop)**: mi intento anterior de mod cooperativo, continuación de Kenshi-Online. Está archivado. Se queda publicado por las notas de ingeniería inversa y las herramientas, que acabaron sirviendo para el fork de arriba.
 `C++` `CMake` `.NET`
 
+<!-- Proyecto privado: una línea, sin enlace al repo -->
+En desarrollo, en privado: un generador de facturas para autónomos y PYMEs españolas, preparado para VeriFACTU (RD 1007/2023), que será obligatorio desde el 1 de enero de 2027 para sociedades y desde el 1 de julio de 2027 para el resto.
+
 ### Stack
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -121,6 +124,9 @@ I'm open to occasional projects. If you want to talk, [book a call at danimefle.
 
 **[kenshi-coop](https://github.com/zeroit789/kenshi-coop)**: my earlier attempt at a co-op mod, a continuation of Kenshi-Online. It's archived. I've kept it public for the reverse-engineering notes and tools, which ended up feeding into the fork above.
 `C++` `CMake` `.NET`
+
+<!-- Private project: one line, no repo link -->
+In development, privately: an invoicing tool for Spanish freelancers and small businesses, built for VeriFACTU (Royal Decree 1007/2023), Spain's e-invoicing rules that become mandatory on January 1, 2027 for companies and July 1, 2027 for everyone else.
 
 ### Stack
 
