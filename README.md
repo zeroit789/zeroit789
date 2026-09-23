@@ -1,198 +1,173 @@
-<!-- ============================================================= -->
-<!-- README de perfil de GitHub — Daniel Castaños Mefle (zeroit789) -->
-<!-- ============================================================= -->
+<!-- README del perfil de GitHub de zeroit789 (Daniel Castaños Mefle). -->
+<!-- Estructura: cabecera común, selector de idioma, sección en español y sección en inglés con el mismo contenido. -->
 
-<!-- ===== CABECERA: banner gradiente con capsule-render ===== -->
+<!-- Cabecera: banner con el nombre (capsule-render) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=200&section=header&text=Daniel%20Casta%C3%B1os%20Mefle&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Sysadmin%20IT%20%C2%B7%20Desarrollador%20Full-Stack&descSize=18&descAlignY=58" alt="Banner Daniel Castaños" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=180&section=header&text=Daniel%20Casta%C3%B1os%20Mefle&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=SysAdmin%20%C2%B7%20Laravel%20%26%20Vue&descSize=18&descAlignY=60" alt="Daniel Castaños Mefle" />
 </p>
 
-<!-- ===== TITULAR ANIMADO con readme-typing-svg ===== -->
+<!-- Enlaces de contacto comunes a los dos idiomas -->
 <p align="center">
-  <a href="https://danimefle.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=Sysadmin+%26+Full-Stack+Developer;Laravel+%C2%B7+Vue+3+%C2%B7+Tauri+%2B+Rust;CRM+%2B+ERP+%2B+VeriFACTU+para+PYMEs;Infraestructura%2C+DevOps+e+IA+local" alt="Titular animado" />
-  </a>
+  <a href="https://danimefle.com"><img src="https://img.shields.io/badge/Web-danimefle.com-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="danimefle.com" /></a>
+  <a href="https://www.linkedin.com/in/daniel-casta%C3%B1os-mefle-383396234/"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Casta%C3%B1os-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:info@danimefle.com"><img src="https://img.shields.io/badge/Email-info%40danimefle.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="info@danimefle.com" /></a>
 </p>
 
-<!-- ===== BADGES SOCIALES / CONTACTO ===== -->
+<!-- Selector de idioma: enlaza a los encabezados de cada sección -->
 <p align="center">
-  <a href="https://danimefle.com"><img src="https://img.shields.io/badge/Web-danimefle.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" /></a>
-  <a href="https://www.linkedin.com/in/daniel-casta%C3%B1os-mefle-383396234/"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Casta%C3%B1os-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:info@danimefle.com"><img src="https://img.shields.io/badge/Email-info@danimefle.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=zeroit789&style=for-the-badge&color=7C3AED&label=VISITAS" alt="Contador de visitas" />
+  <a href="#español"><b>ES</b></a> | <a href="#english"><b>EN</b></a>
 </p>
 
 ---
 
-## 👋 Sobre mí
+<!-- ===================== SECCIÓN EN ESPAÑOL ===================== -->
 
-Soy **Daniel** (en la red, **Zero**), de Algeciras (Cádiz). Llevo años en dos frentes que se
-retroalimentan: **administración de sistemas / IT** y **desarrollo web full-stack**.
+## Español
 
-- 🛠️ Vengo de administrar **servidores, redes y soporte** en entornos corporativos (Plexus Tech, Los Creativos de Hawkins): backup, dominio Microsoft, ticketing, monitorización y ciberseguridad.
-- 💻 Construyo aplicaciones web con **Laravel + Vue**, apps de escritorio con **Tauri + Rust** y automatizo todo lo que se deja con **Python** y **Docker**.
-- 🏠 Me gusta tocar fierro: tengo un **servidor propio en casa** con Coolify, Docker, MySQL, Redis y monitorización, detrás de Cloudflare.
-- 🤖 Cacharreo con **IA local** (Ollama, ComfyUI, Whisper) sobre una RTX 4070 Ti, buscando soluciones que respeten el RGPD.
-- 🎯 Mi objetivo: un **SaaS propio para PYMEs españolas** (CRM + ERP + **VeriFACTU**).
+Soy Daniel (Zero en la red), de Algeciras. Trabajo como **Técnico de Sistemas y Seguridad (SysAdmin) en Sociedad Estiba**, en el Puerto de Algeciras, desde julio de 2026.
 
-> 📍 Algeciras, España · 🗣️ Español (nativo) · English (B1)
+Me muevo entre sistemas y desarrollo. Antes estuve en Plexus Tech, en remoto, montando servidores Windows y Linux, backups con Veritas NetBackup, Active Directory y soporte N2/N3. Y antes de eso, en agencia, haciendo webs y apps con Laravel y Vue a la vez que llevaba la red de los clientes. Fuera del trabajo tengo un servidor en casa con Coolify y Docker detrás de Cloudflare, y es donde pruebo casi todo antes de usarlo en serio.
 
----
+Estoy abierto a proyectos puntuales. Si quieres comentarme algo, [agenda una cita en danimefle.com](https://danimefle.com/citas).
 
-## 🔭 En qué ando ahora
+### Proyectos públicos
 
-- 🏗️ Construyendo un **SaaS de CRM + ERP con VeriFACTU** para PYMEs españolas.
-- 🗡️ Desarrollando un **mod cooperativo para Kenshi** (ingeniería inversa + C++) — ya jugable en Steam.
-- 🤖 Montando **Onyx**, mi asistente IA con memoria persistente y control de mi infraestructura.
-- 📜 Preparando las certificaciones **AZ-104**, **AWS Solutions Architect** y **Security+**.
-- 🌱 Aprendiendo a fondo **Rust** (vía Tauri) y arquitectura de **agentes IA**.
+**[Meetcita](https://github.com/zeroit789/meetcita)**: sistema de reserva de citas en Laravel, autoalojado. Calendario de disponibilidad, citas online con enlace de Google Meet o presenciales, confirmación por email y Telegram, panel de administración y exportación a `.ics`. Bilingüe ES/EN. Licencia MIT. Es el mismo sistema que uso en mi web.
+`Laravel` `Livewire` `Tailwind` `Google Calendar API`
 
----
+**[NÓVERA](https://github.com/zeroit789/web-ejemplo)** ([demo](https://ejemplo.danimefle.com)): plantilla de web corporativa en HTML, CSS y JavaScript sin frameworks. 14 páginas, WCAG 2.2 AA, 0 errores en el validador W3C, A+ en Mozilla Observatory y analítica sin cookies que solo se carga si el visitante acepta. La marca es ficticia. Licencia MIT.
+`HTML` `CSS` `JavaScript`
 
-## 🧰 Stack
+**[Bolsillo](https://github.com/zeroit789/bolsillo)**: app de escritorio para llevar las finanzas personales. Funciona sin conexión, sin cuentas y sin telemetría. Los datos se guardan cifrados en el equipo y se pueden exportar a Excel, PDF y CSV. Versión 1.1.0, licencia MIT.
+`Tauri 2` `Rust` `Vue 3` `TypeScript` `Pinia`
 
-**Backend**
+**[KenshiCoop (fork)](https://github.com/zeroit789/KenshiCoop)**: multijugador cooperativo para Kenshi, sobre el proyecto de [nhoral](https://github.com/nhoral/KenshiCoop). Mi fork junta varias correcciones propias en una misma build, y con ella el cooperativo a dos jugadores funciona. Las correcciones las he mandado también como pull requests al proyecto original.
+`C++` `Ingeniería inversa`
+
+**[kenshi-coop](https://github.com/zeroit789/kenshi-coop)**: mi intento anterior de mod cooperativo, continuación de Kenshi-Online. Está archivado. Se queda publicado por las notas de ingeniería inversa y las herramientas, que acabaron sirviendo para el fork de arriba.
+`C++` `CMake` `.NET`
+
+### Stack
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Inertia](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
-![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
-
-**Desktop & Apps**
-
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black)
-
-**DevOps & Infra**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Coolify](https://img.shields.io/badge/Coolify-8B5CF6?style=flat-square&logo=coolify&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=flat-square&logo=coolify&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Redes & Sistemas**
-
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
-**IA local & Herramientas**
+La lista completa está en [danimefle.com](https://danimefle.com).
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+### Formación y certificaciones
 
----
+- CFGS en Administración de Sistemas Informáticos en Red (ASIR), 2022.
+- CFGM en Sistemas Microinformáticos y Redes (SMR), 2020.
+- Cisco Networking Academy: CCNAv7 completo (ITN, SRWE, ENSA), CyberOps Associate, IT Essentials y NDG Linux Essentials.
+- C++ Institute: CPA, Programming Essentials in C++.
+- Microsoft: MTA Windows Server Administration Fundamentals y MOS Excel 2016.
 
-## 📊 Actividad
+Idiomas: español nativo, inglés B1.
 
+### Actividad
+
+<!-- Serpiente de contribuciones: la genera el workflow .github/workflows/snake.yml en la rama "output" -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeroit789&bg_color=0d1117&color=7C3AED&line=2563EB&point=ffffff&area=true&area_color=7C3AED&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfica de actividad" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeroit789/zeroit789/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeroit789/zeroit789/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/zeroit789/zeroit789/output/github-contribution-grid-snake.svg" alt="Contribuciones en GitHub" />
+  </picture>
 </p>
 
+<p align="right"><a href="#english">English ↓</a></p>
+
 ---
 
-## 🐍 Mis contribuciones
+<!-- ===================== SECCIÓN EN INGLÉS ===================== -->
+
+## English
+
+I'm Daniel (Zero online), based in Algeciras, Spain. I work as a **Systems and Security Technician (SysAdmin) at Sociedad Estiba** in the Port of Algeciras, where I started in July 2026.
+
+My work sits between infrastructure and development. Before this job I was at Plexus Tech, working remotely on Windows and Linux server rollouts, Veritas NetBackup, Active Directory and tier 2/3 support. Before that I worked at an agency, building websites and apps with Laravel and Vue while also looking after clients' networks. On the side I run a home server with Coolify and Docker behind Cloudflare, which is where I try things out before using them for real.
+
+I'm open to occasional projects. If you want to talk, [book a call at danimefle.com](https://danimefle.com/citas).
+
+### Public projects
+
+**[Meetcita](https://github.com/zeroit789/meetcita)**: self-hosted appointment booking for Laravel. Availability calendar, online meetings with an automatic Google Meet link or in-person ones, confirmation by email and Telegram, an admin panel and `.ics` export. Bilingual (Spanish/English). MIT licensed. It's the same system my own site uses.
+`Laravel` `Livewire` `Tailwind` `Google Calendar API`
+
+**[NÓVERA](https://github.com/zeroit789/web-ejemplo)** ([demo](https://ejemplo.danimefle.com)): a corporate website template in plain HTML, CSS and JavaScript, no frameworks. 14 pages, WCAG 2.2 AA, zero W3C validator errors, an A+ on Mozilla Observatory, and cookieless analytics that only load after the visitor opts in. The brand is fictional. MIT licensed.
+`HTML` `CSS` `JavaScript`
+
+**[Bolsillo](https://github.com/zeroit789/bolsillo)**: a desktop app for personal finances. It works offline, with no accounts and no telemetry. Data is stored encrypted on your machine and can be exported to Excel, PDF and CSV. Version 1.1.0, MIT licensed.
+`Tauri 2` `Rust` `Vue 3` `TypeScript` `Pinia`
+
+**[KenshiCoop (fork)](https://github.com/zeroit789/KenshiCoop)**: co-op multiplayer for Kenshi, built on [nhoral's project](https://github.com/nhoral/KenshiCoop). My fork bundles several of my own fixes into a single build, and with it two-player co-op works. I've also sent those fixes upstream as pull requests.
+`C++` `Reverse engineering`
+
+**[kenshi-coop](https://github.com/zeroit789/kenshi-coop)**: my earlier attempt at a co-op mod, a continuation of Kenshi-Online. It's archived. I've kept it public for the reverse-engineering notes and tools, which ended up feeding into the fork above.
+`C++` `CMake` `.NET`
+
+### Stack
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=flat-square&logo=coolify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+The full list is on [danimefle.com](https://danimefle.com).
+
+### Education and certifications
+
+- Higher Vocational Diploma in Network Computer Systems Administration (ASIR), 2022.
+- Vocational Diploma in Computer Systems and Networks (SMR), 2020.
+- Cisco Networking Academy: the full CCNAv7 track (ITN, SRWE, ENSA), CyberOps Associate, IT Essentials and NDG Linux Essentials.
+- C++ Institute: CPA, Programming Essentials in C++.
+- Microsoft: MTA Windows Server Administration Fundamentals and MOS Excel 2016.
+
+Languages: Spanish (native), English (B1).
+
+### Activity
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeroit789/zeroit789/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeroit789/zeroit789/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/zeroit789/zeroit789/output/github-contribution-grid-snake.svg" alt="Animación serpiente de contribuciones" />
+    <img src="https://raw.githubusercontent.com/zeroit789/zeroit789/output/github-contribution-grid-snake.svg" alt="GitHub contributions" />
   </picture>
 </p>
 
----
+<p align="right"><a href="#español">Español ↑</a></p>
 
-## 🚀 Proyectos destacados
-
-### 🧠 Onyx
-Asistente IA personal montado sobre Claude Code: orquestación multi-agente, memoria
-persistente (wiki Obsidian + SQLite), bot de Telegram con voz (Whisper) y control de
-mi infraestructura. _Proyecto personal en uso diario._
-`Python` · `Claude Code` · `Telegram` · `Whisper` · `Ollama`
-
-### 📅 Meetcita — [repo](https://github.com/zeroit789/meetcita)
-Sistema de reserva de citas **open-source** (MIT) extraído de mi portfolio. Wizard de
-reserva, Google Meet automático, confirmación por **Telegram + email**, bilingüe ES/EN
-y tema claro/oscuro. Todo configurable.
-`Laravel` · `Livewire` · `Tailwind` · `Google API`
-
-### 🎨 NÓVERA — [repo](https://github.com/zeroit789/web-ejemplo) · [demo](https://ejemplo.danimefle.com)
-Plantilla web de diseño **open-source**, despersonalizada de un proyecto real de cliente.
-Calidad de producción: **Observatory A+**, W3C sin errores, WCAG 2.2 AA, RGPD con banner
-de cookies real y fuentes autoalojadas.
-`HTML` · `CSS` · `JS` · `Cloudflare Pages`
-
-### 💸 Bolsillo — [repo](https://github.com/zeroit789/bolsillo)
-App de escritorio **open-source** para gestión de gastos personales. Multiplataforma,
-ligera y sin telemetría. Mi campo de pruebas para el stack Tauri.
-`Tauri` · `Rust` · `Vue 3` · `TypeScript` · `Pinia`
-
-### 🗡️ Kenshi Co-op — [repo](https://github.com/zeroit789/kenshi-coop)
-Mod **cooperativo (multijugador)** para el juego Kenshi (MIT). Conseguí compilarlo,
-cargarlo en Steam y jugarlo —algo que el proyecto original nunca llegó a hacer—.
-Incluye ingeniería inversa del motor y herramientas propias en .NET.
-`C++` · `CMake` · `.NET` · `Reverse Engineering`
-
-### 💜 danimefle.com — [web](https://danimefle.com)
-Mi portfolio profesional en **Laravel**: sistema de citas con Google Calendar/Meet,
-panel de gestión, avisos por Telegram, bilingüe ES/EN, páginas legales RGPD y SEO cuidado.
-`Laravel` · `Livewire` · `Tailwind` · `Docker` · `Coolify`
-
----
-
-## 🎓 Certificaciones y formación
-
-**Redes — Cisco CCNAv7 (itinerario completo)**
-
-![CCNA ITN](https://img.shields.io/badge/CCNAv7-Introducci%C3%B3n%20a%20Redes%20(ITN)-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![CCNA SRWE](https://img.shields.io/badge/CCNAv7-Switching%2C%20Routing%20%26%20Wireless%20(SRWE)-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![CCNA ENSA](https://img.shields.io/badge/CCNAv7-Enterprise%2C%20Security%20%26%20Automation%20(ENSA)-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-**Ciberseguridad · Linux · Programación · Hardware**
-
-![CyberOps](https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/NDG-Linux%20Essentials-FCC624?style=flat-square&logo=linux&logoColor=black)
-![C++](https://img.shields.io/badge/C++%20Institute-CPA%20Programming%20Essentials-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![IT Essentials](https://img.shields.io/badge/Cisco-IT%20Essentials%20(x2)-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-**Formación reglada**
-
-- 🎓 **FP Grado Superior — ASIR** (Administración de Sistemas Informáticos en Red)
-- 🎓 **FP Grado Medio — SMR** (Sistemas Microinformáticos y Redes) — nota 8.1
-
-**🎯 Próximas certificaciones**
-
-![AZ-104](https://img.shields.io/badge/En%20curso-AZ--104%20Azure%20Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS SAA](https://img.shields.io/badge/En%20curso-AWS%20Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Security+](https://img.shields.io/badge/En%20curso-CompTIA%20Security%2B-E2231A?style=flat-square&logo=comptia&logoColor=white)
-
----
-
-## 📬 Contacto
-
-¿Tienes un proyecto entre manos o buscas a alguien que entienda **tanto los sistemas como el código**? Hablemos.
-
+<!-- Pie: banner de cierre -->
 <p align="center">
-  <a href="https://danimefle.com"><img src="https://img.shields.io/badge/🌐%20Web-danimefle.com-7C3AED?style=for-the-badge" alt="Web" /></a>
-  <a href="https://www.linkedin.com/in/daniel-casta%C3%B1os-mefle-383396234/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:info@danimefle.com"><img src="https://img.shields.io/badge/✉️%20Email-info@danimefle.com-EA4335?style=for-the-badge" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=120&section=footer" alt="Pie de página" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=100&section=footer" alt="" />
 </p>
