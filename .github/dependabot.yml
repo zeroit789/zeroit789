@@ -1,0 +1,16 @@
+# ES: Configuración de Dependabot. Cada lunes revisa si hay versiones nuevas de las
+#     acciones de GitHub que usa el workflow del perfil y abre una sola PR agrupada.
+# EN: Dependabot configuration. Every Monday it checks for new versions of the
+#     GitHub Actions used by the profile workflow and opens a single grouped PR.
+version: 2
+updates:
+  # ES: Acciones de GitHub / EN: GitHub Actions
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+      timezone: Europe/Madrid
+    groups:
+      actions:
+        patterns: ["*"]
