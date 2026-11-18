@@ -35,8 +35,14 @@ Estoy abierto a proyectos puntuales. Si quieres comentarme algo, [agenda una cit
 **[Meetcita](https://github.com/zeroit789/meetcita)**: sistema de reserva de citas en Laravel, autoalojado. Calendario de disponibilidad, citas online con enlace de Google Meet o presenciales, confirmación por email y Telegram, panel de administración y exportación a `.ics`. Bilingüe ES/EN. Licencia MIT. Es el mismo sistema que uso en mi web.
 `Laravel` `Livewire` `Tailwind` `Google Calendar API`
 
-**[NÓVERA](https://github.com/zeroit789/web-ejemplo)** ([demo](https://ejemplo.danimefle.com)): plantilla de web corporativa en HTML, CSS y JavaScript sin frameworks. 14 páginas, WCAG 2.2 AA, 0 errores en el validador W3C, A+ en Mozilla Observatory y analítica sin cookies que solo se carga si el visitante acepta. La marca es ficticia. Licencia MIT.
-`HTML` `CSS` `JavaScript`
+**Webs de demostración**: cinco webs completas de negocios ficticios, de 10 páginas cada una, en HTML, CSS y JavaScript sin frameworks ni dependencias. Accesibles (WCAG 2.2 AA), con SEO técnico, analítica sin cookies, CSP estricta y una parte interactiva distinta en cada una. Licencia MIT.
+- [Conservas Atalayero](https://github.com/zeroit789/web-atalayero) ([web](https://atalayero.danimefle.com)): conservera de atún de almadraba; montas tu caja de latas por piezas.
+- [Racha](https://github.com/zeroit789/web-racha) ([web](https://racha.danimefle.com)): escuela de kitesurf en Tarifa; eliges Levante o Poniente y los nudos y te dice playa, curso y cometa.
+- [Bodega Bota Chica](https://github.com/zeroit789/web-botachica) ([web](https://botachica.danimefle.com)): bodega de vino de Jerez con una solera que se rocía al sacar vino.
+- [La Curva Fisioterapia](https://github.com/zeroit789/web-lacurva) ([web](https://lacurva.danimefle.com)): clínica de fisioterapia con un mapa del cuerpo para ver tratamiento y precio.
+- [Cortijo Quiebrajano](https://github.com/zeroit789/web-quiebrajano) ([web](https://quiebrajano.danimefle.com)): refugio de astroturismo que calcula la fase lunar y las horas de cielo oscuro de cada noche.
+
+`HTML` `CSS` `JavaScript` `Cloudflare Pages`
 
 **[Bolsillo](https://github.com/zeroit789/bolsillo)**: app de escritorio para llevar las finanzas personales. Funciona sin conexión, sin cuentas y sin telemetría. Los datos se guardan cifrados en el equipo y se pueden exportar a Excel, PDF y CSV. Versión 1.1.0, licencia MIT.
 `Tauri 2` `Rust` `Vue 3` `TypeScript` `Pinia`
@@ -113,8 +119,14 @@ I'm open to occasional projects. If you want to talk, [book a call at danimefle.
 **[Meetcita](https://github.com/zeroit789/meetcita)**: self-hosted appointment booking for Laravel. Availability calendar, online meetings with an automatic Google Meet link or in-person ones, confirmation by email and Telegram, an admin panel and `.ics` export. Bilingual (Spanish/English). MIT licensed. It's the same system my own site uses.
 `Laravel` `Livewire` `Tailwind` `Google Calendar API`
 
-**[NÓVERA](https://github.com/zeroit789/web-ejemplo)** ([demo](https://ejemplo.danimefle.com)): a corporate website template in plain HTML, CSS and JavaScript, no frameworks. 14 pages, WCAG 2.2 AA, zero W3C validator errors, an A+ on Mozilla Observatory, and cookieless analytics that only load after the visitor opts in. The brand is fictional. MIT licensed.
-`HTML` `CSS` `JavaScript`
+**Demo websites**: five complete websites for fictional businesses, 10 pages each, in plain HTML, CSS and JavaScript with no frameworks or dependencies. Accessible (WCAG 2.2 AA), with technical SEO, cookieless analytics, a strict CSP and a different interactive feature on each. MIT licensed.
+- [Conservas Atalayero](https://github.com/zeroit789/web-atalayero) ([site](https://atalayero.danimefle.com)): an almadraba tuna cannery; build your own box of tins by cut.
+- [Racha](https://github.com/zeroit789/web-racha) ([site](https://racha.danimefle.com)): a kitesurf school in Tarifa; pick Levante or Poniente and the knots to get the beach, course and kite size.
+- [Bodega Bota Chica](https://github.com/zeroit789/web-botachica) ([site](https://botachica.danimefle.com)): a sherry winery with a solera that refills itself as you draw wine.
+- [La Curva Fisioterapia](https://github.com/zeroit789/web-lacurva) ([site](https://lacurva.danimefle.com)): a physiotherapy clinic with a body map that shows treatment and price.
+- [Cortijo Quiebrajano](https://github.com/zeroit789/web-quiebrajano) ([site](https://quiebrajano.danimefle.com)): a stargazing retreat that works out the moon phase and dark-sky hours for each night.
+
+`HTML` `CSS` `JavaScript` `Cloudflare Pages`
 
 **[Bolsillo](https://github.com/zeroit789/bolsillo)**: a desktop app for personal finances. It works offline, with no accounts and no telemetry. Data is stored encrypted on your machine and can be exported to Excel, PDF and CSV. Version 1.1.0, MIT licensed.
 `Tauri 2` `Rust` `Vue 3` `TypeScript` `Pinia`
