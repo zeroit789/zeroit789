@@ -25,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
 
       - name: Publicar en la rama output
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
